@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/drawable/button_bg.xml" value="0.2518518518518518" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/drawable/ic_add.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/drawable/ic_arrow.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.23703703703703705" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/drawable/ic_delete.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/drawable/ic_done.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/drawable/ic_edit.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/drawable/ic_refresh.xml" value="0.25076923076923074" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/drawable/ic_share.xml" value="0.25076923076923074" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/drawable/img_shadow.xml" value="0.21875" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/drawable/input_field.xml" value="0.2518518518518518" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/layout/app_bar_layout.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/layout/custom_dialog_layout.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/layout/finished_todo_list_item.xml" value="0.25271739130434784" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/layout/fragment_finished_task.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/layout/fragment_home.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/layout/navigation_header.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/layout/to_do_list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/menu/main_menu.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Nihal/AndroidStudioProjects/todoapp/app/src/main/res/menu/menu.xml" value="0.23854166666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
